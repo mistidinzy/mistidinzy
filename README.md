@@ -4,8 +4,8 @@
 <a href="https://twitter.com/miskibee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miskibee" height="20" width="30" /></a>
 </p> -->
 
-<h4 align="center">👩🏻‍💻 A patient & optimistic software development student in Cedar Rapids, Iowa 🌽 </h4>
-<p align="center">🌱 <b>I’m currently learning about</b>: Building an MVC e-Commerce App, with some Razor Pages thrown in 🌱</p>
+<h4 align="center">👩🏻‍💻 A patient & optimistic Software Developer in Cedar Rapids, Iowa 🌽 </h4>
+<p align="center">🌱 <b>I’m currently learning about</b>: .NET Entity Framework, MVC Architecture, and React Native 🌱</p>
 <p align="center">⚡ <b>Fun Fact</b>: I heart Dragons and Zebras 🦓</p>  
   
 <!-- <h4 align="left">Languages and Tools:</h4> -->
