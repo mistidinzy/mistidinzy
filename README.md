@@ -6,7 +6,7 @@
 
 <h4 align="center">👩🏻‍💻 A patient & optimistic software development student in Cedar Rapids, Iowa 🌽 </h4>
 <p align="center">🌱 <b>I’m currently learning about</b>: Building an MVC e-Commerce App, with some Razor Pages thrown in 🌱</p>
-<p align="center">⚡ <b>Fun Fact</b>: Dragons and Zebras are my favorite animals 🦓</p>  
+<p align="center">⚡ <b>Fun Fact</b>: I heart Dragons and Zebras 🦓</p>  
   
 <!-- <h4 align="left">Languages and Tools:</h4> -->
 <p align="center">
