@@ -6,7 +6,6 @@
 
 <h4 align="center">👩🏻‍💻 A patient & optimistic Software Developer in Cedar Rapids, Iowa 🌽 </h4>
 <p align="center">🌱 <b>I’m currently learning about</b>: .NET Entity Framework, MVC Architecture, and React Native 🌱</p>
-<p align="center">⚡ <b>Fun Fact</b>: I heart Dragons and Zebras 🦓</p>  
   
 <!-- <h4 align="left">Languages and Tools:</h4> -->
 <p align="center">
