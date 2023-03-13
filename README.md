@@ -28,6 +28,4 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
-<p align="center">
- <a href="https://linkedin.com/in/mistidinzy" target="blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linked in" width="40" height="50" /></a></p>
+<hr/>
