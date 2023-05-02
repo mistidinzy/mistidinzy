@@ -32,6 +32,7 @@
 ### 🪴I'm currently working on...
 
 [![My Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=%23E52B50)](https://mistidinzy.com)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/mistidinzy)
   
 ### 📚What I wanna learn next:
 
