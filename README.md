@@ -1,4 +1,4 @@
-# Hello! I'm Misti
+# Hello! I'm Misti ![shield badge](https://bit.ly/42UHWv6)
 
 ## 👩🏻‍💻 Software Developer in Cedar Rapids, Iowa 🌽
 
