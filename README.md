@@ -1,4 +1,6 @@
-# Hello! I'm Misti ![shield badge](https://img.shields.io/badge/%F0%9F%A9%B7-miski-%23EA4C89?style=plastic&logo=react)
+![OctocatMiski](https://bit.ly/3Ie0QFm)
+
+# I'm Misti ![shield badge](https://img.shields.io/badge/%F0%9F%A9%B7-miski-%23EA4C89?style=plastic&logo=react)
 
 ## 👩🏻‍💻 Software Developer in Cedar Rapids, Iowa 🌽
 
