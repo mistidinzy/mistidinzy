@@ -25,6 +25,7 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
   
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
@@ -46,6 +47,8 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=plastic&logo=swift&logoColor=white)
 
 ---
 
