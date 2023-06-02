@@ -2,7 +2,7 @@
 
 # I'm Misti
 
-## 👩🏻‍💻 Full-Stack Web & Software Developer in Cedar Rapids, Iowa 🌽
+## 👩🏻‍💻 Full-Stack Web & Software Developer in Iowa 🌽
 
 [![My Portfolio](https://img.shields.io/badge/-Portfolio-%23EA4C89?style=plastic&logo=react)](https://mistidinzy.com)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white)](https://dribbble.com/mistidinzy)
