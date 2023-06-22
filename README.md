@@ -41,12 +41,18 @@
 ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=plastic&logo=jest&logoColor=white)
 
 ---
+
+### 📖What I'm reading about now:
+
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+
+---
  
 ### 📚What I wanna learn next:
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=plastic&logo=swift&logoColor=white)
 
