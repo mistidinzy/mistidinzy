@@ -1,5 +1,3 @@
-![OctocatMiski](https://bit.ly/3Ie0QFm)
-
 # I'm Misti
 
 ## 👩🏻‍💻 Full-Stack Web & Software Developer in Iowa 🌽
